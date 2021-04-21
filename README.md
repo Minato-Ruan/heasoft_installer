@@ -2,7 +2,7 @@
 
 HeaSoftのインストールは長いから、自動化しようと思った。
 
-(**ちなみに、遠慮なくこの`README.md`を日本語化してくださいw。**お願いします。)
+(**ちなみに、遠慮なくこのREADME.mdを日本語化してくださいw**。お願いします。)
 
 ## Install
 著作権違反の心配があるので、HeaSoftのSource Codeを提供しない。研究室のサバーや提供元NASAの[サイト](https://heasarc.gsfc.nasa.gov/docs/software/lheasoft/download.html)からダウンロードしてください。
