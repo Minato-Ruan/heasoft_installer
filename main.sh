@@ -49,8 +49,8 @@ fi
 
 
 # Download datafile.
-# cd $WORK_PATH
-# source ./download.sh
+cd $WORK_PATH
+source ./download.sh
 
 
 # Install HeaSoft
